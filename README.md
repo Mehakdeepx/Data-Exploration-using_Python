@@ -8,6 +8,9 @@ Online platforms are increasingly plagued by fake reviews, which can mislead con
 
 The Fake Review Detection Model utilizes Natural Language Processing (NLP) techniques and machine learning algorithms to distinguish between genuine and fake reviews. The model is trained on a dataset of online product reviews and evaluates its performance based on various metrics.
 
+## Video
+[VIdeo](https://drive.google.com/file/d/1cGH8jBCNWAnOha9ntFG4Cj2P6_p6CKVe/view?usp=sharing)
+
 ## Features
 
 - Data preprocessing: Includes text normalization, tokenization, and removal of stop words and punctuation.
